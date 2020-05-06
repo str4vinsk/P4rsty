@@ -17,7 +17,7 @@
 
 ## Download e utilização
 
-    1 -   git clone https://github.com/H3ndr1XC0nr0Y/P4rsty
+    1 -   git clone https://github.com/str4vinsk/P4rsty
 
     2 -   cd P4rsty
 
