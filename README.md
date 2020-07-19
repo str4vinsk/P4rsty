@@ -4,11 +4,11 @@
 
 ## Funcionamento
     
-    1 -  Primeiro o programa captura o index da página atravéz do wget o jogando em um output nulo consequentemente exibindo
+    1 -  Primeiro o programa captura o index da página através do wget e o joga em um output nulo, consequentemente exibindo
     o código fonte na tela.
 
-    2 -  Faz a filtragem do código fonte atravéz de strings e delimitadores como 'http','https','"','/' etc. Que classificam sites, 
-    subdominios, e arquivos hospedados no site.
+    2 -  Faz a filtragem do código fonte através de strings e delimitadores como 'http','https','"','/' etc. Que classificam sites, 
+    subdominios e arquivos hospedados no site.
 
     3 - Logo após obter o resultado da filtragem joga tudo em um arquivo chamado result_file localizado em /home/p4rsty.
 
