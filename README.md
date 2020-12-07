@@ -2,6 +2,12 @@
 
    Esse é um simples programa cujo o objetivo é realizar um processo de parsing no site informado em busca de outros sites, diretórios, arquivos, etc.
 
+## Screenshots
+
+![Screenshot](./Screenshot.png)
+
+---
+
 ## Funcionamento
     
     1 -  Primeiro o programa captura o index da página através do wget e o joga em um output nulo, consequentemente exibindo
